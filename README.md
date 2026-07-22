@@ -1,1 +1,1 @@
-Sql practice project 
+In the New_project.Sql file
